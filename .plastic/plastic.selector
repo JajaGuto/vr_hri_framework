@@ -1,0 +1,4 @@
+repository "Plataforma IHR - VR@versus_ai@cloud"
+  path "/"
+    smartbranch "/main" changeset "8"           
+     
